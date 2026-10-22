@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#17241c"/>
+  <!-- ring of progress -->
+  <circle cx="256" cy="272" r="140" fill="none" stroke="#2a3d30" stroke-width="28"/>
+  <path d="M256 132 A140 140 0 1 1 116 272" fill="none" stroke="#5cc187" stroke-width="28" stroke-linecap="round"/>
+  <!-- check -->
+  <path d="M190 276 L238 322 L326 226" fill="none" stroke="#e6ede7" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sparkle -->
+  <path d="M392 92 C398 122 406 130 436 136 C406 142 398 150 392 180 C386 150 378 142 348 136 C378 130 386 122 392 92 Z" fill="#e8b54e"/>
+</svg>
